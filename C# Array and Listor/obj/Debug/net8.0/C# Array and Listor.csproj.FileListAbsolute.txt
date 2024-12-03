@@ -1,0 +1,14 @@
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\bin\Debug\net8.0\C# Array and Listor.exe
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\bin\Debug\net8.0\C# Array and Listor.deps.json
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\bin\Debug\net8.0\C# Array and Listor.runtimeconfig.json
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\bin\Debug\net8.0\C# Array and Listor.dll
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\bin\Debug\net8.0\C# Array and Listor.pdb
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\obj\Debug\net8.0\C# Array and Listor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\obj\Debug\net8.0\C# Array and Listor.AssemblyInfoInputs.cache
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\obj\Debug\net8.0\C# Array and Listor.AssemblyInfo.cs
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\obj\Debug\net8.0\C# Array and Listor.csproj.CoreCompileInputs.cache
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\obj\Debug\net8.0\C# Array and Listor.dll
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\obj\Debug\net8.0\refint\C# Array and Listor.dll
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\obj\Debug\net8.0\C# Array and Listor.pdb
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\obj\Debug\net8.0\C# Array and Listor.genruntimeconfig.cache
+c:\Users\dmytro.malanchuk\Documents\C# Array_and_listor\C# Array and Listor\obj\Debug\net8.0\ref\C# Array and Listor.dll
